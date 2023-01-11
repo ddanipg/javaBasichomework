@@ -1,0 +1,5 @@
+Scanner class:
+helps us take the input from keyboard
+Logical Operators:
+just another set of symbols we can use to combine multiple boolean values. there are 3 logical operators
+  ! && ||

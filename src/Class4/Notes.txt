@@ -1,0 +1,41 @@
+Operators:
+Operators are different symbols that we can use to perform operations like addition
+compare things if two entities are same or not, if a number is greater than the other number or not.
+there are three main types of operators. they are arithmetic operators, relational operators and logical operators.
+Arithmetic Operators:
+we use Arithmetic operators to perform simple math operations like addition, substraction etc.
++ => addition
+- => subtraction
+/ => division
+* => multiplication
+% => modulus, remainder
+
+relational operators- // do not work with String
+are used to compare two quantities or entities, for example if something is bigger than other thing or if two numbers
+are the same or not, or if 2 boolean variables contain same values or not.
+ ==  used to check if two variables contain the same value or not, if same we get true otherwise we get false.
+ !=  used to check if two variables do not contain the same value. we get a true if they are not same.
+ >  used to check if one value is greater than other value or not. if greater we get a true if not greater we get false
+ < used to check if one value on the left is smaller than the value on the right side we will get true.
+ >= if the value on left is greater or equal to if either if those 2 thing is true we will get true as a result.
+ <= is opposite of greater than, and it is used to check if something is less or equal to  other thing.
+
+ conditional constructs
+ used to write conditional code. A piece of code that execute based on a condition if condition is true java execute
+ the code otherwise it skips that code.
+ how to write if else conditions:
+ if(condition){
+ any line of code even another if condition
+ if(){
+ }
+ }
+ important notes:
+ 1) for String we use equals method indtead of == sign because is a non-primitive data type
+
+
+   If else conditions:
+   If i have to test the same variable for multiple conditions I should use If else If
+   If I have multiple conditions and these conditions are dependent on each other I should use the Nested if conditions.
+
+
+ }
